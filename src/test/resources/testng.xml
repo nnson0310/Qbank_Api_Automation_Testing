@@ -3,7 +3,7 @@
 <suite name="Qbank API" parallel="false">
     <test name="Qbank API">
         <classes>
-          <class name=""></class>
+            <class name="restful_booker.GetBookingIds"/>
         </classes>
     </test>
 </suite>

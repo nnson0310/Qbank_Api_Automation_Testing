@@ -19,3 +19,4 @@ buildNumber.properties
 .idea
 target
 Qbank_Api_Automation_Testing.iml
+test-output
